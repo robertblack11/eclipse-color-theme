@@ -115,6 +115,7 @@ Available themes:
 * [Vibrant Ink](http://www.eclipsecolorthemes.org/?view=theme&id=3)
 * [Wombat](http://www.eclipsecolorthemes.org/?view=theme&id=118)
 * [Zenburn](http://www.eclipsecolorthemes.org/?view=theme&id=2)
+* [Bright Red] (random URL)
 
 You can download additional themes or create your own on
 [eclipsecolorthemes.org](http://eclipsecolorthemes.org).
